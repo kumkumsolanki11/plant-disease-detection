@@ -53,7 +53,7 @@ A real-time AI-powered web application to detect plant diseases from leaf images
 🔧 How to Run Locally
 
 # Clone the repo
-git clone https://github.com/adityadorwal/plant-disease-detection.git
+git clone https://github.com/kumkumsolanki11/plant-disease-detection.git
 cd plant-disease-detection
 
 # (Optional) Create a virtual environment
